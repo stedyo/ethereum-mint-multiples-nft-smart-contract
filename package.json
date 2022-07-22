@@ -1,0 +1,30 @@
+{
+  "name": "ethereum-mint-multiples-nft-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stedyo/ethereum-mint-multiples-nft-smart-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stedyo/ethereum-mint-multiples-nft-smart-contract/issues"
+  },
+  "homepage": "https://github.com/stedyo/ethereum-mint-multiples-nft-smart-contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.1.0",
+    "ethers": "^5.6.9",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.6",
+    "@openzeppelin/contracts": "^4.7.1",
+    "dotenv": "^16.0.1"
+  }
+}

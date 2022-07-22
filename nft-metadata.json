@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Giraffe"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Eye"
+      }
+    ],
+    "description": "The world's most adorable and sensitive Giraffe.",
+    "image": "ipfs://QmYAb9b5taMD7jax4yE1guwNWGf89FYjSL5MGBue2ajgwn",
+    "name": "Ramses"
+  }
+  
